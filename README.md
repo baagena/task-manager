@@ -1,31 +1,19 @@
-# Task Manager App (React + Laravel)
+# Clone the repository
+git clone https://github.com/baagena/task-manager.git
+cd task-manager
 
-A simple task management application with user authentication.
-
-## Quick Start
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/baagena/task-manager.git
-   cd task-manager
-
-
-2. **Backend Setup**:
-
+# === Backend Setup (Laravel) ===
 cd backend
 composer install
 cp .env.example .env
 php artisan key:generate
-import database "tasks.sql" in phpmyadmin
-connect database in .env
+
+# Import tasks.sql manually using phpMyAdmin or any MySQL tool
+# Then, update your .env file with the correct database credentials
+
 php artisan serve
 
-
-
-3. **Frontend Setup**:
-
+# === Frontend Setup (React) ===
 cd ../frontend
 npm install
 npm run dev
-
-
