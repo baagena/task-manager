@@ -1,0 +1,15 @@
+Part 4: Client Communication Scenario
+
+1. A task is blocked and may delay delivery. How do you communicate this to the client? 
+
+If a task is blocked and might cause a delay, I first try to understand the problem and see if there’s a way to fix it. Then, I tell the client as soon as possible. I explain what’s going on, why it’s happening, what we’re doing to fix it, and how it might affect the deadline. I also give a new timeline if needed. I stay in touch and give updates so the client knows I’m on top of it
+
+2. You get simultaneous Slack messages from the client and your project manager. Who do 
+you prioritize and why? 
+
+I check both messages. If neither is super urgent, I reply to the project manager first, since they usually lead the communication and might already be handling the client. Then I follow up as needed.
+
+3. How do you manage your time and stay productive while working remotely? 
+
+I organize my day with a task list and clear priorities. I use tools to manage my time, avoid distractions, and take short breaks to stay focused. I also communicate often with my team to stay in sync
+
