@@ -8,8 +8,9 @@ cd task-manager
 - cp .env.example .env
 - php artisan key:generate
 
-**Note**: - Import tasks.sql manually using phpMyAdmin or any MySQL tool
-Then, update your .env file with the correct database credentials
+**Note**: 
+- Import tasks.sql manually using phpMyAdmin or any MySQL tool
+- Then, update your .env file with the correct database credentials
 
 - php artisan serve
 
